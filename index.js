@@ -6,4 +6,4 @@ const removeFirst =["Milo", "Otis", "Garfield"]
 
 append.push("Odie")
 prepend.unshift("Odie")
-removeLast.slice(-1)
+removeLast.pop
